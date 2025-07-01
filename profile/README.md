@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://mirrors.kvm-i7.host/logo.png" alt="KVM-i7 Logo" width="150">
+  <img src="https://github.com/kvm-i7/.github/blob/main/profile/logo.png?raw=true" alt="KVM-i7 Logo" width="150">
 </p>
 
 <h1 align="center">KVM-i7 Hosting</h1>
@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://kvm-i7.host/"><img src="https://img.shields.io/badge/Website-kvm--i7.host-7DF9FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTEyIDJDNi40OCA MiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4="></a>
   <a href="https://discord.gg/t3vps"><img src="https://img.shields.io/badge/Join_our_Discord-2.1K%2B_Members-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://panel.kvm-i7.host/"><img src="https://img.shields.io/badge/Official_Panel-API_Powered-A6D8E8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTQgNmgxNnYxMEg0eiIvPjwvc3ZnPg=="></a>
     <a href="https://kvm-i7.host/status.html"><img src="https://img.shields.io/badge/Service_Status-Online-23a55a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTEyIDE3LjI3TDQuNSAxMi41bDEuNDE0LTEuNDE0TDExIDE0LjQ0bDYuMDgtNi4wOEwxOC41IDEyLjV6Ii8+PC9zdmc+"></a>
