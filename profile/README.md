@@ -65,7 +65,7 @@ curl -X POST https://platform.kvm-i7.host/api/exec \
 
 Ready to get your own lifetime VPS?
 
-1.  **Join our [Discord Server](https://discord.gg/t3vps)** - This is our main hub for community and management.
+1.  **Join our [Discord Server](https://discord.gg/compute)** - This is our main hub for community and management.
 2.  **Choose a Plan** - Check out the available plans on our [website](https://kvm-i7.host/#plans).
 3.  **Request Your VPS** - In the appropriate channel on Discord, use the command `!request {plan} {ssd/hdd}`.
 4.  **Pay & Deploy** - Our bot will provide an OxaPay link. Once paid, your server is deployed automatically.
