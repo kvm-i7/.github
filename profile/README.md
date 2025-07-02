@@ -79,4 +79,4 @@ The KVM-i7 platform is for the community, by the community.
 *   **Share Your Project:** If you build a useful open-source tool, let us know. We feature community projects in our **[Trusted 3rd Party Panels List](https://kvm-i7.host/trusted)**.
 *   **Contribute:** Found a bug or have a suggestion? Open an issue in the relevant repository. We welcome pull requests for our open-source projects.
 
-Have questions? The best place to ask is in our **[Discord](https://discord.gg/t3vps)**.
+Have questions? The best place to ask is in our **[Discord](https://discord.gg/compute)**.
