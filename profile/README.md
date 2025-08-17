@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kvm-i7/.github/blob/main/profile/logo.png?raw=true" alt="KVM-i7 Logo" width="150">
+  <img src="https://github.com/e5-compute/.github/blob/main/profile/logo.png?raw=true" alt="KVM-i7 Logo" width="150">
 </p>
 
 <h1 align="center">KVM-i7 Hosting</h1>
