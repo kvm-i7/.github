@@ -67,7 +67,7 @@ Ready to get your own lifetime VPS?
 
 1.  **Join our [Discord Server](https://discord.gg/compute)** - This is our main hub for community and management.
 2.  **Choose a Plan** - Check out the available plans on our [website](https://E5-Compute.host/#plans).
-3.  **Request Your VPS** - In the appropriate channel on Discord, use the command `!request {plan} {ssd/hdd}`.
+3.  **Request Your VPS** - In the appropriate channel on Discord, use the command `!buy {plan} {ssd/hdd}`.
 4.  **Pay & Deploy** - Our bot will provide an OxaPay link. Once paid, your server is deployed automatically.
 5.  **Manage Your Box** - Use `!manage {vps-id}` to get your credentials, or start building with the API!
 
@@ -76,7 +76,7 @@ Ready to get your own lifetime VPS?
 The E5-Compute platform is for the community, by the community.
 
 *   **Build Something Cool:** Have an idea for a tool, a script, or a new panel? Use the API and build it!
-*   **Share Your Project:** If you build a useful open-source tool, let us know. We feature community projects in our **[Trusted 3rd Party Panels List](https://E5-Compute.host/trusted)**.
+*   **Share Your Project:** If you build a useful open-source tool, let us know.
 *   **Contribute:** Found a bug or have a suggestion? Open an issue in the relevant repository. We welcome pull requests for our open-source projects.
 
 Have questions? The best place to ask is in our **[Discord](https://discord.gg/compute)**.
