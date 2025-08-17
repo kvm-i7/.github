@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/e5-compute/blob/main/profile/logo.png?raw=true" alt="E5-Compute Logo" width="150">
+  <img src="https://github.com/kvm-i7/.github/blob/main/image%20(3).png?raw=true" alt="E5-Compute Logo" width="150">
 </p>
 
 <h1 align="center">E5-Compute Hosting</h1>
